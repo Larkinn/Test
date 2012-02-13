@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DWizardTest", "XNATest\XNATest\2DWizardTest.csproj", "{0744BFA5-0620-4199-848B-5EB164059EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DWizardTestContent", "XNATest\XNATestContent\2DWizardTestContent.contentproj", "{B8BCD3D1-91F2-46D9-9364-232A0648E1C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DTest", "3DTest\3DTest\3DTest.csproj", "{9102DE63-C660-40A2-AB88-153370DB9864}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "3DTestContent", "3DTest\3DTestContent\3DTestContent.contentproj", "{387390FC-D45E-43D2-B09E-01B2208DE7DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DTestMovingAround", "3DTestMovingAround\3DTestMovingAround\3DTestMovingAround.csproj", "{EA1F7133-1A16-4995-B8B5-BA588860DADA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "3DTestMovingAroundContent", "3DTestMovingAround\3DTestMovingAroundContent\3DTestMovingAroundContent.contentproj", "{26FEFC89-C6E9-4F63-871D-028AFCFE83B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test\Test.csproj", "{4828DEA7-D426-418E-8F12-CB6B842F40DB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestContent", "Test\TestContent\TestContent.contentproj", "{3AE8FDA7-72B3-4604-8210-44FA339AA20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0744BFA5-0620-4199-848B-5EB164059EDE}.Debug|x86.ActiveCfg = Debug|x86
+		{0744BFA5-0620-4199-848B-5EB164059EDE}.Debug|x86.Build.0 = Debug|x86
+		{0744BFA5-0620-4199-848B-5EB164059EDE}.Release|x86.ActiveCfg = Release|x86
+		{0744BFA5-0620-4199-848B-5EB164059EDE}.Release|x86.Build.0 = Release|x86
+		{B8BCD3D1-91F2-46D9-9364-232A0648E1C2}.Debug|x86.ActiveCfg = Debug|x86
+		{B8BCD3D1-91F2-46D9-9364-232A0648E1C2}.Release|x86.ActiveCfg = Release|x86
+		{9102DE63-C660-40A2-AB88-153370DB9864}.Debug|x86.ActiveCfg = Debug|x86
+		{9102DE63-C660-40A2-AB88-153370DB9864}.Debug|x86.Build.0 = Debug|x86
+		{9102DE63-C660-40A2-AB88-153370DB9864}.Release|x86.ActiveCfg = Release|x86
+		{9102DE63-C660-40A2-AB88-153370DB9864}.Release|x86.Build.0 = Release|x86
+		{387390FC-D45E-43D2-B09E-01B2208DE7DB}.Debug|x86.ActiveCfg = Debug|x86
+		{387390FC-D45E-43D2-B09E-01B2208DE7DB}.Release|x86.ActiveCfg = Release|x86
+		{EA1F7133-1A16-4995-B8B5-BA588860DADA}.Debug|x86.ActiveCfg = Debug|x86
+		{EA1F7133-1A16-4995-B8B5-BA588860DADA}.Debug|x86.Build.0 = Debug|x86
+		{EA1F7133-1A16-4995-B8B5-BA588860DADA}.Release|x86.ActiveCfg = Release|x86
+		{EA1F7133-1A16-4995-B8B5-BA588860DADA}.Release|x86.Build.0 = Release|x86
+		{26FEFC89-C6E9-4F63-871D-028AFCFE83B2}.Debug|x86.ActiveCfg = Debug|x86
+		{26FEFC89-C6E9-4F63-871D-028AFCFE83B2}.Release|x86.ActiveCfg = Release|x86
+		{4828DEA7-D426-418E-8F12-CB6B842F40DB}.Debug|x86.ActiveCfg = Debug|x86
+		{4828DEA7-D426-418E-8F12-CB6B842F40DB}.Debug|x86.Build.0 = Debug|x86
+		{4828DEA7-D426-418E-8F12-CB6B842F40DB}.Release|x86.ActiveCfg = Release|x86
+		{4828DEA7-D426-418E-8F12-CB6B842F40DB}.Release|x86.Build.0 = Release|x86
+		{3AE8FDA7-72B3-4604-8210-44FA339AA20B}.Debug|x86.ActiveCfg = Debug|x86
+		{3AE8FDA7-72B3-4604-8210-44FA339AA20B}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

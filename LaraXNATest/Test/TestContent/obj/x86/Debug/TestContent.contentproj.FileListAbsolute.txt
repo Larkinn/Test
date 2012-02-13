@@ -1,0 +1,1 @@
+C:\Code\XNATest\Test\TestContent\obj\x86\Debug\ResolveAssemblyReference.cache
