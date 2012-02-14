@@ -7,3 +7,12 @@ C:\Code\XNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\ResolveAssem
 C:\Code\XNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Code\XNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\3DTestMovingAround.exe
 C:\Code\XNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\3DTestMovingAround.pdb
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\bin\x86\Debug\3DTestMovingAround.exe
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\bin\x86\Debug\3DTestMovingAround.pdb
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\3DTestMovingAround.exe
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAround\obj\x86\Debug\3DTestMovingAround.pdb

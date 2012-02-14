@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\SquareGuy.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\SquareGuy.xnb</Output>
       <Time>2012-02-11T22:25:38.828125+00:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\Background01.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background01.xnb</Output>
       <Time>2012-02-11T23:06:12.484375+00:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\Background02.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background02.xnb</Output>
       <Time>2012-02-11T23:06:12.53125+00:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\Background03.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background03.xnb</Output>
       <Time>2012-02-11T23:06:12.53125+00:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\Background04.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background04.xnb</Output>
       <Time>2012-02-11T23:06:12.546875+00:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\Background05.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background05.xnb</Output>
       <Time>2012-02-11T23:06:12.5625+00:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\WizardSquare.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\WizardSquare.xnb</Output>
       <Time>2012-02-12T17:45:00.4375+00:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\Fireball.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Fireball.xnb</Output>
       <Time>2012-02-12T17:54:14.453125+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -79,10 +79,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Code\XNATest\XNATest\XNATestContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Code\XNATest\XNATest\XNATest\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Code\XNATest\XNATest\XNATestContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Code\XNATest\XNATest\XNATest\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Code\Test\LaraXNATest\XNATest\XNATestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Code\Test\LaraXNATest\XNATest\XNATest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Code\Test\LaraXNATest\XNATest\XNATestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

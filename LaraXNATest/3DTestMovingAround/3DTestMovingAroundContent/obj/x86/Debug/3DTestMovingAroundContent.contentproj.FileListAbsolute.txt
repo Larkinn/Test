@@ -1,1 +1,2 @@
 C:\Code\XNATest\3DTestMovingAround\3DTestMovingAroundContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Test\LaraXNATest\3DTestMovingAround\3DTestMovingAroundContent\obj\x86\Debug\ResolveAssemblyReference.cache

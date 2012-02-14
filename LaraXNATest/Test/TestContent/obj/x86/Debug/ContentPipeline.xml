@@ -7,13 +7,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\Test\Test\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\Test\Test\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
       <Time>2012-02-12T18:59:38.34375+00:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\p1_wedge_0.xml</Key>
-        <Value>2012-02-12T21:51:02.609375+00:00</Value>
+        <Value>2012-02-13T20:41:41.5+00:00</Value>
       </Dependency>
-      <Request>C:\Code\XNATest\Test\Test\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+      <Request>C:\Code\Test\LaraXNATest\Test\Test\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
     </Item>
     <Item>
       <Source>Textures\wedge_p1_diff_v1.tga</Source>
@@ -21,7 +21,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\Test\Test\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\Test\Test\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb</Output>
       <Time>2012-02-12T18:59:39.46875+00:00</Time>
     </Item>
     <Item>
@@ -44,8 +44,37 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\Test\Test\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\Test\Test\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
       <Time>2012-02-12T18:59:39.46875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>box.fbx</Source>
+      <Name>box</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Code\Test\LaraXNATest\Test\Test\bin\x86\Debug\Content\box.xnb</Output>
+      <Time>2012-02-13T23:08:43.421875+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\box_0.xml</Key>
+        <Value>2012-02-13T23:24:23.609375+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>boxtexture.bmp</Source>
+      <Name>boxtexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Code\Test\LaraXNATest\Test\Test\bin\x86\Debug\Content\boxtexture.xnb</Output>
+      <Time>2012-02-13T23:08:47.125+00:00</Time>
+    </Item>
+    <Item>
+      <Source>box.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\box_0.xml</Output>
+      <Time>2012-02-13T23:08:43.421875+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -53,10 +82,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Code\XNATest\Test\TestContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Code\XNATest\Test\Test\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Code\XNATest\Test\TestContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Code\XNATest\Test\Test\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Code\Test\LaraXNATest\Test\TestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Code\Test\LaraXNATest\Test\Test\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Code\Test\LaraXNATest\Test\TestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Code\Test\LaraXNATest\Test\Test\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

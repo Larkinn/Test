@@ -7,13 +7,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\3DTest\3DTest\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\3DTest\3DTest\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
       <Time>2012-02-12T18:41:48.125+00:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Models\p1_wedge_0.xml</Key>
-        <Value>2012-02-12T18:46:41.640625+00:00</Value>
+        <Value>2012-02-13T20:41:38.65625+00:00</Value>
       </Dependency>
-      <Request>C:\Code\XNATest\3DTest\3DTest\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+      <Request>C:\Code\Test\LaraXNATest\3DTest\3DTest\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
     </Item>
     <Item>
       <Source>Textures\wedge_p1_diff_v1.tga</Source>
@@ -21,7 +21,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\3DTest\3DTest\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\3DTest\3DTest\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb</Output>
       <Time>2012-02-12T18:41:50.953125+00:00</Time>
     </Item>
     <Item>
@@ -44,7 +44,7 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Code\XNATest\3DTest\3DTest\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Output>C:\Code\Test\LaraXNATest\3DTest\3DTest\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
       <Time>2012-02-12T18:41:50.953125+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -53,10 +53,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Code\XNATest\3DTest\3DTestContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Code\XNATest\3DTest\3DTest\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Code\XNATest\3DTest\3DTestContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Code\XNATest\3DTest\3DTest\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Code\Test\LaraXNATest\3DTest\3DTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Code\Test\LaraXNATest\3DTest\3DTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Code\Test\LaraXNATest\3DTest\3DTestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Code\Test\LaraXNATest\3DTest\3DTest\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

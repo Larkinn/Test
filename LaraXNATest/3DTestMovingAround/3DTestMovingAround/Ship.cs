@@ -47,6 +47,31 @@ namespace _3DTestMovingAround
         // Set the model direction.
         Vector3 modelDirection = Vector3.Zero;
 
+        // ################
+        Matrix view;
+        Matrix proj;
+        float avatarYaw;
+        Vector3 thirdPersonReference = new Vector3(0.0f, 500.0f, 5000.0f);
+        float rotationSpeed = 1f / 60f;
+        float forwardSpeed = 50f / 60f;
+        static float viewAngle = MathHelper.PiOver4; // Set the field of view of the camera in radians
+        static float nearClip = 1.0f;
+        static float farClip = 2000.0f;
+        int CameraState;
+        bool cameraStateKeydown;        
+
+        // ###
+        // Camera offsett vector from the avatar. An offset of the form (0, N, -N)
+        // will put the camera above and behind the avatar at a 45-degree angle.
+        //Vector3 thirdPersonReference = new Vector3(0, 500, -500);
+
+        // ###
+        // A rotation Matrix for the direction that the avatar is facing. The rotating
+        // Matrix is created by CreateRotationY, using the avatar's current rotation as its parameter.
+        //Matrix rotationMatrix = Matrix.CreateRotationY(avatarYaw);
+
+        // ################
+
         public void LoadContent(ContentManager contentManager, GraphicsDeviceManager graphics)
         {
             ship = contentManager.Load<Model>(assetName);
@@ -56,6 +81,10 @@ namespace _3DTestMovingAround
         public void Update(GameTime gameTime)
         {
             KeyboardState currentKeyboardState = Keyboard.GetState();
+
+            // ################
+            GetCurrentCamera();
+            // ################
 
             UpdateMovement(currentKeyboardState); // Get some input.
             
@@ -115,6 +144,10 @@ namespace _3DTestMovingAround
 
                 mesh.Draw();
             }
+        }
+
+        public void GetCurrentCamera()
+        {
         }
     }
 }

@@ -1,1 +1,2 @@
 C:\Code\XNATest\XNATest\XNATestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Test\LaraXNATest\XNATest\XNATestContent\obj\x86\Debug\ResolveAssemblyReference.cache

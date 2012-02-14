@@ -12,3 +12,17 @@ C:\Code\XNATest\XNATest\XNATest\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Code\XNATest\XNATest\XNATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Code\XNATest\XNATest\XNATest\obj\x86\Debug\XNATest.exe
 C:\Code\XNATest\XNATest\XNATest\obj\x86\Debug\XNATest.pdb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\SquareGuy.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background01.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background02.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background03.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background04.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Background05.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\WizardSquare.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\Content\Fireball.xnb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\XNATest.exe
+C:\Code\Test\LaraXNATest\XNATest\XNATest\bin\x86\Debug\XNATest.pdb
+C:\Code\Test\LaraXNATest\XNATest\XNATest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\Test\LaraXNATest\XNATest\XNATest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Code\Test\LaraXNATest\XNATest\XNATest\obj\x86\Debug\XNATest.exe
+C:\Code\Test\LaraXNATest\XNATest\XNATest\obj\x86\Debug\XNATest.pdb
